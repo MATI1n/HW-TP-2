@@ -4,3 +4,5 @@
 ```bash
 pip install -r requirements.txt
 pytest
+```
+Работа от Симонян Мартина Григорьевича ТАДБ251
